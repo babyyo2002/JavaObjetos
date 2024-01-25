@@ -1,3 +1,5 @@
+package Ej1Basico;
+
 public class Cuenta {
     private String  nombre;
     private String numeroCuenta;

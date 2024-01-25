@@ -1,3 +1,5 @@
+package Ej1Basico;
+
 import java.util.Scanner;
 
 public class mainEjemplo {
