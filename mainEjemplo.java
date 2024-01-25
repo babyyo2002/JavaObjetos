@@ -6,7 +6,7 @@ public class mainEjemplo {
         String nombre, numero;
         double tipo, importe;
 
-        //se crea objeto cuenta1 sin parámetros.pepe
+        //se crea objeto cuenta1 sin parámetros
         //se ejecuta el constructor por defecto
         Cuenta cuenta1 = new Cuenta();
 
